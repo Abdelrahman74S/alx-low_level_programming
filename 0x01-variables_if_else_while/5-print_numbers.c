@@ -11,9 +11,10 @@ int a = 0;
 
 while (a <  10)
 {
-printf("%d ", a);
+printf("%d", a);
 a++;
 }
+ptintf("\n");
 return (0);
 
 }
