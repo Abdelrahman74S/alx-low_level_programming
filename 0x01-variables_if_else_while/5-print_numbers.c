@@ -7,14 +7,15 @@
  */
 int main(void)
 {
-int a = 0;
+int main() {
+int a;
 
-while (a <  10)
+for (a = 0; a <= 9; a++)
 {
-printf("%d", a);
-a++;
+putchar(a + '0');
 }
-ptintf("\n");
+
+putchar('\n');
 return (0);
 
 }
