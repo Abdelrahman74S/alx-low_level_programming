@@ -1,1 +1,1 @@
-0x02-functions/_nested/_loops
+0x02-functions_nested_loops
