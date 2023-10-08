@@ -5,7 +5,7 @@
 
 
 /**
- * malloc_checked
+ * malloc_checked - allocates memory using malloc
  *
  * @b: allocated memory
  *
