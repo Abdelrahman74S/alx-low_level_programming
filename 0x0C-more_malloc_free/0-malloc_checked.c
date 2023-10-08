@@ -5,7 +5,7 @@
 
 
 /**
- * malloc_checked 
+ * malloc_checked
  *
  * @b: allocated memory
  *
@@ -19,5 +19,5 @@ if (ptr == NULL)
 {
 exit(98);
 }
-return ptr;
+return (ptr);
 }
