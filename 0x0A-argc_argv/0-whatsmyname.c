@@ -1,11 +1,11 @@
 #include <stdio.h>
-
+#include <stdlib.h>
 
 /**
  * main- a program that prints its name
  *
  * @argc: holds the number of arguments passed
- * @argv: array pointer 
+ * @argv: array pointer
  *
  * Return: Always 0 (Success)
 */
